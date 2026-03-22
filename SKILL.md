@@ -1,5 +1,6 @@
 ---
 name: smart-doc-processor
+homepage: https://github.com/ryan-wuxl/smart-doc-processor
 description: 智能文档处理助手 - 一站式文档处理工具，支持 PDF 转换、智能摘要、多语言翻译、格式转换等功能。自动提取关键信息，生成结构化报告，提升文档处理效率10倍。
 homepage: https://github.com/openclaw/smart-doc-processor
 metadata:
